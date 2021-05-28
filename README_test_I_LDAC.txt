@@ -35,3 +35,12 @@ V_drop_target ~ 78.4 mV		I_LDAC ~ 14 uA		mean = 520.241	sigma = 0.571
 V_drop_target ~ 89.6 mV		I_LDAC ~ 16 uA		mean = 520.768	sigma = 1.56
 
 V_drop_target ~ 112 mV		I_LDAC ~ 20.0 uA	mean = 518.978	sigma = 0.842
+
+
+
+
+
+####################################################
+Valuto il rumore con soglia 1500 elettroni a ILDAC ~ 14 uA in due casi:
+- CD variabile 0 50 100 150 fF
+- CD = 50 fF I_LKG_N crescente 0 5 10 15 20 nA
