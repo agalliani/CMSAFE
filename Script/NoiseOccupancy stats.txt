@@ -1,0 +1,197 @@
+SOGLIA: 340
+
+A:
+Tot hits --> 20152
+Mean --> 179.93
+Hits < 36 --> 610, mean: 9.53, excluding 48 pixels
+Hits < 360 --> 3966, mean: 43.58, excluding 21 pixels
+B:
+Tot hits --> 12836
+Mean -->114.61
+Hits < 36 --> 721, mean: 13.6, excluding 59 pixels
+Hits < 360 --> 8124, mean: 77.37, excluding 7 pixels
+
+-------------------------------------------
+
+SOGLIA: 370
+
+A:
+Tot hits --> 22608
+Mean --> 201.86
+Hits < 36 --> 415, mean: 6.19, excluding 45 pixels
+Hits < 360 --> 3988, mean: 43.35, excluding 20 pixels
+B:
+Tot hits --> 5498
+Mean -->49.09
+Hits < 36 --> 701, mean: 8.35, excluding 28 pixels
+Hits < 360 --> 2848, mean: 26.37, excluding 4 pixels
+
+-------------------------------------------
+
+SOGLIA: 420
+
+A:
+Tot hits --> 7002
+Mean --> 62.52
+Hits < 36 --> 209, mean: 2.35, excluding 23 pixels
+Hits < 360 --> 2998, mean: 28.28, excluding 6 pixels
+B:
+Tot hits --> 1753
+Mean -->15.65
+Hits < 36 --> 332, mean: 3.1, excluding 5 pixels
+Hits < 360 --> 775, mean: 6.98, excluding 1 pixels
+
+-------------------------------------------
+
+SOGLIA: 460
+
+A:
+Tot hits --> 2872
+Mean --> 25.64
+Hits < 36 --> 111, mean: 1.11, excluding 12 pixels
+Hits < 360 --> 826, mean: 7.51, excluding 2 pixels
+B:
+Tot hits --> 1097
+Mean -->9.79
+Hits < 36 --> 76, mean: 0.69, excluding 2 pixels
+Hits < 360 --> 172, mean: 1.55, excluding 1 pixels
+
+-------------------------------------------
+
+SOGLIA: 500
+
+A:
+Tot hits --> 2850
+Mean --> 25.45
+Hits < 36 --> 173, mean: 1.68, excluding 9 pixels
+Hits < 360 --> 804, mean: 7.31, excluding 2 pixels
+B:
+Tot hits --> 726
+Mean -->6.48
+Hits < 36 --> 9, mean: 0.08, excluding 1 pixels
+Hits < 360 --> 9, mean: 0.08, excluding 1 pixels
+
+-------------------------------------------
+
+SOGLIA: 550
+
+A:
+Tot hits --> 572
+Mean --> 5.11
+Hits < 36 --> 69, mean: 0.63, excluding 2 pixels
+Hits < 360 --> 129, mean: 1.16, excluding 1 pixels
+B:
+Tot hits --> 746
+Mean -->6.66
+Hits < 36 --> 7, mean: 0.06, excluding 1 pixels
+Hits < 360 --> 7, mean: 0.06, excluding 1 pixels
+
+-------------------------------------------
+
+SOGLIA: 600
+
+A:
+Tot hits --> 160
+Mean --> 1.43
+Hits < 36 --> 44, mean: 0.4, excluding 1 pixels
+Hits < 360 --> 160, mean: 1.43, excluding 0 pixels
+B:
+Tot hits --> 361
+Mean -->3.22
+Hits < 36 --> 0, mean: 0.0, excluding 1 pixels
+Hits < 360 --> 0, mean: 0.0, excluding 1 pixels
+
+-------------------------------------------
+
+SOGLIA: 680
+
+A:
+Tot hits --> 0
+Mean --> 0.0
+Hits < 36 --> 0, mean: 0.0, excluding 0 pixels
+Hits < 360 --> 0, mean: 0.0, excluding 0 pixels
+B:
+Tot hits --> 222
+Mean -->1.98
+Hits < 36 --> 0, mean: 0.0, excluding 1 pixels
+Hits < 360 --> 222, mean: 1.98, excluding 0 pixels
+
+-------------------------------------------
+
+SOGLIA: 750
+
+A:
+Tot hits --> 0
+Mean --> 0.0
+Hits < 36 --> 0, mean: 0.0, excluding 0 pixels
+Hits < 360 --> 0, mean: 0.0, excluding 0 pixels
+B:
+Tot hits --> 39
+Mean -->0.35
+Hits < 36 --> 0, mean: 0.0, excluding 1 pixels
+Hits < 360 --> 39, mean: 0.35, excluding 0 pixels
+
+-------------------------------------------
+
+SOGLIA: 830
+
+A:
+Tot hits --> 0
+Mean --> 0.0
+Hits < 36 --> 0, mean: 0.0, excluding 0 pixels
+Hits < 360 --> 0, mean: 0.0, excluding 0 pixels
+B:
+Tot hits --> 1
+Mean -->0.01
+Hits < 36 --> 1, mean: 0.01, excluding 0 pixels
+Hits < 360 --> 1, mean: 0.01, excluding 0 pixels
+
+-------------------------------------------
+
+SOGLIA: 900
+
+A:
+Tot hits --> 0
+Mean --> 0.0
+Hits < 36 --> 0, mean: 0.0, excluding 0 pixels
+Hits < 360 --> 0, mean: 0.0, excluding 0 pixels
+B:
+Tot hits --> 1
+Mean -->0.01
+Hits < 36 --> 1, mean: 0.01, excluding 0 pixels
+Hits < 360 --> 1, mean: 0.01, excluding 0 pixels
+
+-------------------------------------------
+
+SOGLIA: 960
+
+A:
+Tot hits --> 0
+Mean --> 0.0
+Hits < 36 --> 0, mean: 0.0, excluding 0 pixels
+Hits < 360 --> 0, mean: 0.0, excluding 0 pixels
+B:
+Tot hits --> 0
+Mean -->0.0
+Hits < 36 --> 0, mean: 0.0, excluding 0 pixels
+Hits < 360 --> 0, mean: 0.0, excluding 0 pixels
+
+-------------------------------------------
+
+SOGLIA: 000
+
+A:
+Tot hits --> 0
+Mean --> 0.0
+Hits < 36 --> 0, mean: 0.0, excluding 0 pixels
+Hits < 360 --> 0, mean: 0.0, excluding 0 pixels
+B:
+Tot hits --> 2
+Mean -->0.02
+Hits < 36 --> 2, mean: 0.02, excluding 0 pixels
+Hits < 360 --> 2, mean: 0.02, excluding 0 pixels
+
+-------------------------------------------
+
+1
+​

@@ -1,0 +1,398 @@
+CMSAFE Noise occupancy data v1.0
+channel noise_count
+  0    0
+  1    0
+  2    0
+  3    0
+  4    0
+  5    0
+  6    0
+  7    0
+  8    0
+  9    0
+ 10    0
+ 11    0
+ 12    0
+ 13    0
+ 14    0
+ 15    0
+ 16  259
+ 17  529
+ 18 1023
+ 19 1023
+ 20  334
+ 21  106
+ 22 1023
+ 23 1023
+ 24 1023
+ 25   19
+ 26    2
+ 27  216
+ 28 1023
+ 29 1023
+ 30 1023
+ 31 1023
+ 32 1023
+ 33 1023
+ 34 1023
+ 35 1023
+ 36 1023
+ 37  272
+ 38   17
+ 39   28
+ 40 1023
+ 41 1023
+ 42  585
+ 43  874
+ 44  166
+ 45 1023
+ 46    2
+ 47   46
+ 48  122
+ 49 1023
+ 50  358
+ 51 1023
+ 52 1023
+ 53 1023
+ 54 1023
+ 55  241
+ 56 1023
+ 57    2
+ 58  157
+ 59 1023
+ 60 1023
+ 61  570
+ 62 1023
+ 63  425
+ 64 1023
+ 65  164
+ 66 1023
+ 67 1023
+ 68  475
+ 69   26
+ 70  915
+ 71 1023
+ 72  670
+ 73  143
+ 74 1023
+ 75  348
+ 76    2
+ 77 1023
+ 78  454
+ 79 1023
+ 80   40
+ 81  170
+ 82 1023
+ 83 1023
+ 84  137
+ 85 1023
+ 86 1023
+ 87 1023
+ 88   97
+ 89  522
+ 90 1023
+ 91  346
+ 92 1023
+ 93   14
+ 94  173
+ 95 1023
+ 96  944
+ 97  976
+ 98 1023
+ 99 1023
+100   28
+101 1023
+102 1023
+103  276
+104 1023
+105   13
+106  352
+107 1023
+108  337
+109   11
+110    5
+111  528
+112  669
+113    5
+114  181
+115    3
+116 1023
+117  594
+118 1023
+119 1023
+120  278
+121   38
+122 1023
+123 1023
+124   91
+125    3
+126 1023
+127  138
+128    0
+129    0
+130    0
+131    0
+132    0
+133    0
+134    0
+135    0
+136    0
+137    0
+138    0
+139    0
+140    0
+141    0
+142    0
+143    0
+144    0
+145    0
+146    0
+147    0
+148    0
+149    0
+150    0
+151    0
+152    0
+153    0
+154    0
+155    0
+156    0
+157    0
+158    0
+159    0
+160    0
+161    0
+162    0
+163    0
+164    0
+165    0
+166    0
+167    0
+168    0
+169    0
+170    0
+171    0
+172    0
+173    0
+174    0
+175    0
+176    0
+177    0
+178    0
+179    0
+180    0
+181    0
+182    0
+183    0
+184    0
+185    0
+186    0
+187    0
+188    0
+189    0
+190    0
+191    0
+192    0
+193    0
+194    0
+195    0
+196    0
+197    0
+198    0
+199    0
+200    0
+201    0
+202    0
+203    0
+204    0
+205    0
+206    0
+207    0
+208    0
+209    0
+210    0
+211    0
+212    0
+213    0
+214    0
+215    0
+216    0
+217    0
+218    0
+219    0
+220    0
+221    0
+222    0
+223    0
+224    0
+225    0
+226    0
+227    0
+228    0
+229    0
+230    0
+231    0
+232    0
+233    0
+234    0
+235    0
+236    0
+237    0
+238    0
+239    0
+240    0
+241    0
+242    0
+243    0
+244    0
+245    0
+246    0
+247    0
+248    0
+249    0
+250    0
+251    0
+252    0
+253    0
+254    0
+255    0
+<Cluster>
+<Name>Settings</Name>
+<NumElts>13</NumElts>
+<Path>
+<Name>Vth Calibration</Name>
+<Val>C:\Users\ratti\Documents\CMSAFE_test_AndreaGalliani\CMSAFE_calibs\test preamp 30 CD 100\calib_PREAMP_30_CD_100_LDAC_14_soglia_590.txt</Val>
+</Path>
+<DBL>
+<Name>VTH A (mV)</Name>
+<Val>329.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>VRIF_KRUM A (mV)</Name>
+<Val>300.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>CAL_MI_GBL (mV)</Name>
+<Val>500.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>CAL_HI_GBL A (mV)</Name>
+<Val>511.87999999999999</Val>
+</DBL>
+<DBL>
+<Name>CAL_HI_GBL B (mV)</Name>
+<Val>511.85000000000002</Val>
+</DBL>
+<EB>
+<Name>TP period</Name>
+<Choice>20 us</Choice>
+<Choice>30 us</Choice>
+<Choice>40 us</Choice>
+<Choice>50 us</Choice>
+<Choice>60 us</Choice>
+<Choice>70 us</Choice>
+<Choice>80 us</Choice>
+<Choice>90 us</Choice>
+<Val>7</Val>
+</EB>
+<U16>
+<Name>TP T Cycles</Name>
+<Val>1000</Val>
+</U16>
+<Cluster>
+<Name>PCR B configuration</Name>
+<NumElts>8</NumElts>
+<Boolean>
+<Name>Output enable</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Leakage P enable</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Leakage N enable</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>C_det = 50 fF enable</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>C_det = 100 fF enable</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>TP inject enable</Name>
+<Val>0</Val>
+</Boolean>
+<U8>
+<Name>Threshold DAC</Name>
+<Val>0</Val>
+</U8>
+<Boolean>
+<Name>Power down</Name>
+<Val>0</Val>
+</Boolean>
+</Cluster>
+<Cluster>
+<Name>PCR A configuration</Name>
+<NumElts>9</NumElts>
+<Boolean>
+<Name>Output enable</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Leakage P enable</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Leakage N enable</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>C_det = 50 fF enable</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>C_det = 100 fF enable</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>TP inject enable</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Gain selector</Name>
+<Val>0</Val>
+</Boolean>
+<U8>
+<Name>Threshold DAC</Name>
+<Val>0</Val>
+</U8>
+<Boolean>
+<Name>Power down</Name>
+<Val>0</Val>
+</Boolean>
+</Cluster>
+<Cluster>
+<Name>Channel range</Name>
+<NumElts>2</NumElts>
+<U8>
+<Name>Start</Name>
+<Val>16</Val>
+</U8>
+<U8>
+<Name>Stop</Name>
+<Val>127</Val>
+</U8>
+</Cluster>
+<DBL>
+<Name>VRIF_KRUM B (mV)</Name>
+<Val>360.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>VTH B (mV)</Name>
+<Val>382.00000000000000</Val>
+</DBL>
+</Cluster>
