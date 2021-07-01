@@ -1,0 +1,74 @@
+SOGLIA: _590
+
+A:
+Tot hits --> 66171
+Mean --> 590.81
+Hits < 36 --> 235, mean: 13.06, excluding 94 pixels
+Hits < 360 --> 4046, mean: 91.95, excluding 68 pixels
+B:
+Tot hits --> 97630
+Mean -->871.7
+Hits < 36 --> 28, mean: 28.0, excluding 111 pixels
+Hits < 360 --> 1210, mean: 151.25, excluding 104 pixels
+
+-------------------------------------------
+
+SOGLIA: _950
+
+A:
+Tot hits --> 1449
+Mean --> 12.94
+Hits < 36 --> 41, mean: 0.38, excluding 4 pixels
+Hits < 360 --> 652, mean: 5.87, excluding 1 pixels
+B:
+Tot hits --> 9747
+Mean -->87.03
+Hits < 36 --> 718, mean: 10.88, excluding 46 pixels
+Hits < 360 --> 4296, mean: 40.91, excluding 7 pixels
+
+-------------------------------------------
+
+SOGLIA: 1000
+
+A:
+Tot hits --> 583
+Mean --> 5.21
+Hits < 36 --> 18, mean: 0.17, excluding 3 pixels
+Hits < 360 --> 583, mean: 5.21, excluding 0 pixels
+B:
+Tot hits --> 3529
+Mean -->31.51
+Hits < 36 --> 467, mean: 4.67, excluding 12 pixels
+Hits < 360 --> 1317, mean: 12.19, excluding 4 pixels
+
+-------------------------------------------
+
+SOGLIA: 1200
+
+A:
+Tot hits --> 25
+Mean --> 0.22
+Hits < 36 --> 25, mean: 0.22, excluding 0 pixels
+Hits < 360 --> 25, mean: 0.22, excluding 0 pixels
+B:
+Tot hits --> 1036
+Mean -->9.25
+Hits < 36 --> 37, mean: 0.34, excluding 2 pixels
+Hits < 360 --> 145, mean: 1.31, excluding 1 pixels
+
+-------------------------------------------
+
+SOGLIA: 1500
+
+A:
+Tot hits --> 0
+Mean --> 0.0
+Hits < 36 --> 0, mean: 0.0, excluding 0 pixels
+Hits < 360 --> 0, mean: 0.0, excluding 0 pixels
+B:
+Tot hits --> 351
+Mean -->3.13
+Hits < 36 --> 0, mean: 0.0, excluding 1 pixels
+Hits < 360 --> 351, mean: 3.13, excluding 0 pixels
+
+-------------------------------------------
