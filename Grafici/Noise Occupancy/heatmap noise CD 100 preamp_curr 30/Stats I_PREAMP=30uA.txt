@@ -1,0 +1,89 @@
+SOGLIA: 590
+
+A:
+Tot hits --> 69715
+Mean --> 622.46
+Hits < 36 --> 180, mean: 11.25, excluding 96 pixels
+Hits < 360 --> 5766, mean: 131.05, excluding 68 pixels
+B:
+Tot hits --> 103949
+Mean -->928.12
+Hits < 36 --> 0, mean: nan, excluding 112 pixels
+Hits < 360 --> 803, mean: 267.67, excluding 109 pixels
+
+-------------------------------------------
+
+SOGLIA: 680
+
+A:
+Tot hits --> 44521
+Mean --> 397.51
+Hits < 36 --> 301, mean: 10.03, excluding 82 pixels
+Hits < 360 --> 6560, mean: 100.92, excluding 47 pixels
+B:
+Tot hits --> 97721
+Mean -->872.51
+Hits < 36 --> 0, mean: nan, excluding 112 pixels
+Hits < 360 --> 2572, mean: 214.33, excluding 100 pixels
+
+-------------------------------------------
+
+SOGLIA: 950
+
+A:
+Tot hits --> 3253
+Mean --> 29.04
+Hits < 36 --> 210, mean: 2.04, excluding 9 pixels
+Hits < 360 --> 1207, mean: 10.97, excluding 2 pixels
+B:
+Tot hits --> 32443
+Mean -->289.67
+Hits < 36 --> 263, mean: 20.23, excluding 99 pixels
+Hits < 360 --> 9313, mean: 119.4, excluding 34 pixels
+
+-------------------------------------------
+
+SOGLIA: 1000
+
+A:
+Tot hits --> 1690
+Mean --> 15.09
+Hits < 36 --> 54, mean: 0.5, excluding 5 pixels
+Hits < 360 --> 500, mean: 4.55, excluding 2 pixels
+B:
+Tot hits --> 14606
+Mean -->130.41
+Hits < 36 --> 591, mean: 13.13, excluding 67 pixels
+Hits < 360 --> 7074, mean: 70.74, excluding 12 pixels
+
+-------------------------------------------
+
+SOGLIA: 1200
+
+A:
+Tot hits --> 25
+Mean --> 0.22
+Hits < 36 --> 25, mean: 0.22, excluding 0 pixels
+Hits < 360 --> 25, mean: 0.22, excluding 0 pixels
+B:
+Tot hits --> 1233
+Mean -->11.01
+Hits < 36 --> 59, mean: 0.54, excluding 2 pixels
+Hits < 360 --> 332, mean: 2.99, excluding 1 pixels
+
+-------------------------------------------
+
+SOGLIA: 1500
+
+A:
+Tot hits --> 0
+Mean --> 0.0
+Hits < 36 --> 0, mean: 0.0, excluding 0 pixels
+Hits < 360 --> 0, mean: 0.0, excluding 0 pixels
+B:
+Tot hits --> 657
+Mean -->5.87
+Hits < 36 --> 1, mean: 0.01, excluding 1 pixels
+Hits < 360 --> 1, mean: 0.01, excluding 1 pixels
+
+-------------------------------------------

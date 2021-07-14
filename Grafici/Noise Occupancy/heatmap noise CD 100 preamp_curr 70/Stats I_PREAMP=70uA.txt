@@ -1,0 +1,91 @@
+SOGLIA: 590
+
+A:
+Tot hits --> 80077
+Mean --> 714.97
+Hits < 36 --> 150, mean: 15.0, excluding 102 pixels
+Hits < 360 --> 3212, mean: 100.38, excluding 80 pixels
+B:
+Tot hits --> 97583
+Mean -->871.28
+Hits < 36 --> 33, mean: 33.0, excluding 111 pixels
+Hits < 360 --> 2228, mean: 202.55, excluding 101 pixels
+
+-------------------------------------------
+
+SOGLIA: 680
+
+A:
+Tot hits --> 42466
+Mean --> 379.16
+Hits < 36 --> 449, mean: 12.47, excluding 76 pixels
+Hits < 360 --> 4606, mean: 68.75, excluding 45 pixels
+B:
+Tot hits --> 91573
+Mean -->817.62
+Hits < 36 --> 4, mean: 4.0, excluding 111 pixels
+Hits < 360 --> 3343, mean: 208.94, excluding 96 pixels
+
+-------------------------------------------
+
+SOGLIA: 950
+
+A:
+Tot hits --> 577
+Mean --> 5.15
+Hits < 36 --> 20, mean: 0.18, excluding 2 pixels
+Hits < 360 --> 577, mean: 5.15, excluding 0 pixels
+B:
+Tot hits --> 18116
+Mean -->161.75
+Hits < 36 --> 634, mean: 14.74, excluding 69 pixels
+Hits < 360 --> 8191, mean: 82.74, excluding 13 pixels
+
+-------------------------------------------
+
+SOGLIA: 1000
+
+A:
+Tot hits --> 79
+Mean --> 0.71
+Hits < 36 --> 14, mean: 0.13, excluding 1 pixels
+Hits < 360 --> 79, mean: 0.71, excluding 0 pixels
+B:
+Tot hits --> 4772
+Mean -->42.61
+Hits < 36 --> 498, mean: 5.08, excluding 14 pixels
+Hits < 360 --> 1513, mean: 14.14, excluding 5 pixels
+
+-------------------------------------------
+
+SOGLIA: 1200
+
+A:
+Tot hits --> 0
+Mean --> 0.0
+Hits < 36 --> 0, mean: 0.0, excluding 0 pixels
+Hits < 360 --> 0, mean: 0.0, excluding 0 pixels
+B:
+Tot hits --> 1064
+Mean -->9.5
+Hits < 36 --> 41, mean: 0.37, excluding 1 pixels
+Hits < 360 --> 41, mean: 0.37, excluding 1 pixels
+
+-------------------------------------------
+
+SOGLIA: 1500
+
+A:
+Tot hits --> 0
+Mean --> 0.0
+Hits < 36 --> 0, mean: 0.0, excluding 0 pixels
+Hits < 360 --> 0, mean: 0.0, excluding 0 pixels
+B:
+Tot hits --> 17
+Mean -->0.15
+Hits < 36 --> 17, mean: 0.15, excluding 0 pixels
+Hits < 360 --> 17, mean: 0.15, excluding 0 pixels
+
+-------------------------------------------
+
+​

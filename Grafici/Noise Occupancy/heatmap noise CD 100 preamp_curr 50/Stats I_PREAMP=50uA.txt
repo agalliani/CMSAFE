@@ -1,4 +1,4 @@
-SOGLIA: _590
+SOGLIA: 590
 
 A:
 Tot hits --> 66171
@@ -13,7 +13,7 @@ Hits < 360 --> 1210, mean: 151.25, excluding 104 pixels
 
 -------------------------------------------
 
-SOGLIA: _950
+SOGLIA: 950
 
 A:
 Tot hits --> 1449
