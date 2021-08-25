@@ -1,0 +1,18 @@
+IN-TIME THRESHOLD: 1200 
+
+Soglia A: 900 
+
+A:
+Tot hits --> 2703
+Mean --> 24.13
+Hits < 36 --> 132, mean: 1.26, excluding 7 pixels
+Hits < 360 --> 819, mean: 7.45, excluding 2 pixels
+
+Soglia B: 1100
+B:
+Tot hits --> 2793
+Mean -->24.94
+Hits < 36 --> 336, mean: 3.2, excluding 7 pixels
+Hits < 360 --> 976, mean: 8.95, excluding 3 pixels
+
+-------------------------------------------
